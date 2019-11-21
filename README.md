@@ -31,4 +31,5 @@ The contents of this repository are covered under the [MIT](LICENSE) License.
 
 ## Acknowledgments
 Angela Yu's [Flutter Development Course](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart).
+
 Souvik Biswas's [sign_in_flutter repository](https://github.com/sbis04/sign_in_flutter).
